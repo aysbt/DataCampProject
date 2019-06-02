@@ -55,3 +55,12 @@ Open source projects contain entire development histories - who made changes, th
 The dataset includes the project history of Scala retrieved from Git and GitHub as a set of CSV files.
 
 Project Link :https://www.datacamp.com/projects/163
+
+# Naïve Bees: Image Loading and Processing
+
+##### Project Description
+
+Can a machine distinguish between a honey bee and a bumble bee? Being able to identify bee species from images, while challenging, would allow researchers to more quickly and effectively collect field data. In this Project, you will use the Python image library Pillow to load and manipulate image data. You'll learn common transformations of images and how to build them into a pipeline.
+
+Project Link: https://www.datacamp.com/projects/374
+
